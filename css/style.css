@@ -94,7 +94,7 @@ img{
 
 .header-link:hover{
     color: #e9c479;
-    background: url("/img/lk-arrow-hover.jpg") no-repeat left center;
+    background: url("../img/lk-arrow-hover.jpg") no-repeat left center;
 }
 
 .offers-link-icon{
@@ -193,7 +193,7 @@ transition: transform 0.4s ease;
     color: #CC9933;
     margin-left: auto;
     display: inline-block;
-    background: url("/img/lk-arrow.svg") no-repeat left center;
+    background: url("../img/lk-arrow.svg") no-repeat left center;
     padding-left: 28px;
     background-size: 21px 12px;
 }
@@ -271,7 +271,7 @@ transition: transform 0.4s ease;
 
 .offers-link-icon{
     display: inline-block;
-    background: url("/img/rectangle2.svg") right center no-repeat;
+    background: url("../img/rectangle2.svg") right center no-repeat;
     height: 16px;
     width: 14px;
     transform: translateY(3px);
@@ -318,7 +318,7 @@ transition: transform 0.4s ease;
 }
 
 .right-offers{
-    background: url("/img/offers3.jpg") center center no-repeat;
+    background: url("../img/offers3.jpg") center center no-repeat;
     Width: 573px;
     height: 540px;
     padding: 211px 234px 149px 40px;
@@ -346,7 +346,7 @@ transition: transform 0.4s ease;
     font-weight: 400;
     font-size: 16px;
     line-height: 16px;
-    background: url("/img/rectangle2.jpg") right center no-repeat;
+    background: url("../img/rectangle2.jpg") right center no-repeat;
     background-size: 14px 16px ;
     padding-right: 18px;
 }
@@ -389,14 +389,14 @@ transition: transform 0.4s ease;
     font-weight: 500;
     font-size: 20px;
     line-height: 40px;
-    background: url("/img/rectangle2.jpg") right center no-repeat;
+    background: url("../img/rectangle2.jpg") right center no-repeat;
     background-size: 14px 16px ;
     padding-right: 18px;
 }
 
 .services-link-icon{
     display: inline-block;
-    background: url("/img/rectangle3.svg") right center no-repeat;
+    background: url("../img/rectangle3.svg") right center no-repeat;
     height: 16px;
     width: 14px;
     transform: translateY(3px);
@@ -414,19 +414,19 @@ transition: transform 0.4s ease;
 }
 
 .section-services-item1{
-    background-image: url("/img/services1.jpg");
+    background-image: url("../img/services1.jpg");
 }
 
 .section-services-item2{
-    background-image: url("/img/services2.jpg");
+    background-image: url("../img/services2.jpg");
 }
 
 .section-services-item3{
-    background-image: url("/img/services3.jpg");
+    background-image: url("../img/services3.jpg");
 }
 
 .section-services-item4{
-    background-image: url("/img/services4.jpg");
+    background-image: url("../img/services4.jpg");
 }
 
 .section-services-item:not(:nth-child(1), :nth-child(2)){
@@ -557,7 +557,7 @@ transition: transform 0.4s ease;
 }
 
 .section-placement-item9{
-    background: url("/img/placement9.jpg") no-repeat center center;
+    background: url("../img/placement9.jpg") no-repeat center center;
     padding: 370px 60px 27px 50px;
     position: relative;
 }
@@ -612,7 +612,7 @@ transition: transform 0.4s ease;
 .section-want-select{
     border: 0px;
     -webkit-appearance: none;
-    background: url("/img/select-icon.svg") 90% 50% no-repeat;
+    background: url("../img/select-icon.svg") 90% 50% no-repeat;
     width: 189px;
 }
 
@@ -656,7 +656,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
 /* contacts */
 .section-contacts-container{
     padding: 44px 748px 46px 46px;
-    background-image: url("/img/contacts-img.jpg");
+    background-image: url("../img/contacts-img.jpg");
     background-repeat: no-repeat;
     background-position: 471px 44px;
     background-size: 653px 528px;
@@ -718,7 +718,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
     display: flex;
     padding: 44px 51px 46px 52px;
     border-radius: 15px;
-    background: url("/img/footer-logo.svg") 738px bottom no-repeat;
+    background: url("../img/footer-logo.svg") 738px bottom no-repeat;
     background-color: #333;
     margin-top: 20px;
 }
@@ -801,21 +801,21 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
 }
 
 .footer-social1{
-    background-image: url("/img/tripadvisor.svg");
+    background-image: url("../img/tripadvisor.svg");
 }
 
 .footer-social2{
-    background-image: url("/img/twitter.svg");
+    background-image: url("../img/twitter.svg");
 }
 
 .footer-social3{
-    background-image: url("/img/facebook.svg");
+    background-image: url("../img/facebook.svg");
 }
 
 .footer-social4{
-    background-image: url("/img/vk.svg");
+    background-image: url("../img/vk.svg");
 }
 
 .footer-social5{
-    background-image: url("/img/instagram.svg");
+    background-image: url("../img/instagram.svg");
 }
