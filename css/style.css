@@ -309,11 +309,11 @@ transition: transform 0.4s ease;
 }
 
 .left-card-u{
-    background: url("/img/fade.jpg") left center no-repeat , url("/img/offers1.jpg") center center no-repeat; 
+    background: url("../img/fade.jpg") left center no-repeat , url("../img/offers1.jpg") center center no-repeat; 
 }
 
 .left-card-d{
-    background: url("/img/fade.jpg") left center no-repeat , url("/img/offers2.jpg") center center no-repeat; 
+    background: url("../img/fade.jpg") left center no-repeat , url("../img/offers2.jpg") center center no-repeat; 
     margin-top: 23px;
 }
 
